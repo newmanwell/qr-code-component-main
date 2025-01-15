@@ -1,0 +1,40 @@
+body {
+  background-color: hsl(216, 15%, 48%);
+}
+
+main {
+  display: flex;
+  justify-content: center;
+}
+
+.card-container {
+  width: 20%;
+  background-color: hsl(212, 45%, 89%);
+  padding: 15px;
+  border-radius: 15px;
+  font-family: "Outfit";
+}
+
+img {
+  width: 100%;
+  border-radius: 5%;
+}
+
+.card-container h1 {
+  text-align: center;
+  color: hsl(218, 44%, 22%);
+}
+
+.card-container p {
+  text-align: center;
+  color: hsl(216, 15%, 48%);
+}
+
+.attribution { 
+  font-size: 11px; text-align: center;
+  margin-top: 1rem;
+}
+
+.attribution a { 
+  color: hsl(228, 45%, 44%); 
+}
